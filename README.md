@@ -1,16 +1,15 @@
-## Hi there 👋
+# Nguyen The Duc aka "Chris" Nguyen.
 
+-Hi all - I'm Chris - an 18-year-old boy living in Hanoi and I'm proud to be a Catholic.
+
+
+“Everything is possible for one who believes.” — Mark 9:23"
 <!--
-**theduc4a/theduc4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working at VCLvACC
+- 🌱 I’m currently learning Python and C++
+- 🤔 I’m looking for help with vatSys
+- 📫 How to reach me: Discord
+- 😄 Pronouns: Chris
+- ⚡ Fun fact: I'm such a nerd
 -->
