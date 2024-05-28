@@ -4,7 +4,9 @@
 
 
 “Everything is possible for one who believes.” — Mark 9:23"
-<!--
+
+## Fun fact:
+
 
 - 🔭 I’m currently working at VCLvACC
 - 🌱 I’m currently learning Python and C++
@@ -12,4 +14,3 @@
 - 📫 How to reach me: Discord
 - 😄 Pronouns: Chris
 - ⚡ Fun fact: I'm such a nerd
--->
